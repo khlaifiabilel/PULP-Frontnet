@@ -255,8 +255,5 @@ match the expected ones.
 #### Integrating the generated code
 [coming soon]
 
-#### Building the GAP8 application
-[coming soon]
-
-#### Building our custom Crazyflie firmware
-[coming soon]
+#### Running the application
+A copy of the complete application is provided as example for our NanoCockpit framework for autonomous applications on the Crazyflie. Code and instructions are available in the NanoCockpit [GitHub repo](https://github.com/idsia-robotics/nanocockpit).
